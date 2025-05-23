@@ -109,7 +109,7 @@ provides a systematic introduction to the principles, design, and applications o
     * [C. Chapter Summary](#C-Chapter-Summary)
   * [VII. CONCLUSION](#VII-CONCLUSION)
 
-  * [Paper With Code](#Paper-With-Code)
+
   * [The Team](#The-Team)
   * [Contact Information for Source Code Submission or Update](#Contact-Information-for-Source-Code-Submission-or-Update)
   * [Update log](#Update-log)
