@@ -120,9 +120,9 @@ provides a systematic introduction to the principles, design, and applications o
   * [Update log](#Update-log)
  
 
-![f83884e75c728798d16033471f8ebd9](https://github.com/user-attachments/assets/f377ba7d-d6aa-4ac6-9e8b-ab459add8028)
-<p align="center">Fig. 1: LAMs and Agentic AI empowered 6G.</p>
 
-
-
+<p align="center">
+  <img src="![f83884e75c728798d16033471f8ebd9](https://github.com/user-attachments/assets/983496f1-44dc-49a8-8193-5614a5f693f1)" width="50%" alt="Fig. 2: The role of LAMs in AI." />
+  <br>Fig. 2: The role of LAMs in AI.
+</p>
 
