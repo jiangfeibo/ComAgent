@@ -2,7 +2,7 @@
 ## Authors
 ### Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, Merouane Debbah
 ## Paper
-### 
+### https://arxiv.org/abs/
 ## Code
 ### https://github.com/jiangfeibo/ComAgent
 ## Abstract
@@ -73,8 +73,6 @@ With the advent of 6G communications, intelligent communication systems face mul
     * [D. Summary and lessons learned](#D-Summary-and-lessons-learned)
       * [1) Summary](#1-Summary)
       * [2) Lessons learned](#2-Lessons-learned)
-     
-
   * [V. HOW TO OPTIMIZE COMMUNICATION SYSTEMS USING LAMS AND AGENTIC AI](#V-HOW-TO-OPTIMIZE-COMMUNICATION-SYSTEMS-USING-LAMS-AND-AGENTIC-AI)
     * [A. The Application Scenarios of LAMs](#A-The-Application-Scenarios-of-LAMs)
       * [1) LAMs for Semantic Communication](#1-LAMs-for-Semantic-Communication)
@@ -105,8 +103,6 @@ With the advent of 6G communications, intelligent communication systems face mul
       * [4) Difficulty in Evaluating Agentic AI](#4-Difficulty-in-Evaluating-Agentic-AI)
     * [C. Chapter Summary](#C-Chapter-Summary)
   * [VII. CONCLUSION](#VII-CONCLUSION)
-
-
   * [The Team](#The-Team)
   * [Contact Information for Source Code Submission or Update](#Contact-Information-for-Source-Code-Submission-or-Update)
   * [Update log](#Update-log)
