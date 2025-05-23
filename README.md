@@ -48,7 +48,7 @@ provides a systematic introduction to the principles, design, and applications o
       * [2) Lessons Learned](#2-Lessons-Learned)
   * [III. HOW TO DESIGN LARGE AI MODELS FOR COMMUNICATIONS](#III-HOW-TO-DESIGN-LARGE-AI-MODELS-FOR-COMMUNICATIONS)
     * [A. Communication Datasets](#A-Communication-Datasets)
-      * [1) Communication Content Filtering](#1-Communication Content Filtering)
+      * [1) Communication Content Filtering](#1-Communication-Content-Filtering)
       * [2) Pre-training Datasets for Communications](#2-Pre-training-Datasets-for-Communications)
       * [3) Fine-tuning Datasets for Communications](#3-Fine-tuning-Datasets-for-Communications)
       * [4) Alignment Datasets for Communications](#4-Alignment-Datasets-for-Communications)
