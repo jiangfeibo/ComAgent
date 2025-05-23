@@ -111,9 +111,9 @@ provides a systematic introduction to the principles, design, and applications o
 
   * [Paper With Code](#Paper-With-Code)
   * [The Team](#The-Team)
-  * [Acknowledgments](#Acknowledgments)
+  * [Contact Information for Source Code Submission or Update](#Contact-Information-for-Source-Code-Submission-or-Update)
   * [Update log](#Update-log)
- 
+  * [Citation](#Citation)
 
 <p align="center">
   <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig1.png" width="70%" alt="Fig. 1: LAMs and Agentic AI empowered 6G." />
@@ -151,3 +151,27 @@ provides a systematic introduction to the principles, design, and applications o
 </p>
 
 
+## The Team
+Here is the list of our student contributors in each section.
+| Section 	| Student Contributors 	|
+|:-------	|:--------------------	|
+|   The whole paper  | Zhengyu Du , Yuhan Zhang |
+|   Literature Search   | Jian Zou , Dandan Qi  |
+|   Project Maintenance   | Xitao Pan  |
+
+
+
+## Contact Information for Source Code Submission or Update
+If you intend to add or update the source code in the repository, please contact the following email addresses: jiangfb@hunnu.edu.cn, Dlj2017@hunnu.edu.cn, 240620854087@stu.hutb.edu.cn and 240620854065@stu.hutb.edu.cn.
+
+
+## Update Log
+| Version 	| Time 	| Update Content 	|
+|:---	|:---	|:---	|
+| v1 	| 2025/5/23 	| The initial version. 	|
+| v2 	|  	|  Improve the writing.<br>Correct some minor errors.	 |
+| v3 	|  	|  Improve the writing.<br>Correct some minor errors. 	|
+
+
+
+## Citation   
