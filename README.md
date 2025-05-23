@@ -109,15 +109,15 @@ provides a systematic introduction to the principles, design, and applications o
     * [C. Chapter Summary](#C-Chapter-Summary)
   * [VII. CONCLUSION](#VII-CONCLUSION)
 
-
-
-
-
-
   * [Paper With Code](#Paper-With-Code)
   * [The Team](#The-Team)
   * [Acknowledgments](#Acknowledgments)
   * [Update log](#Update-log)
  
+
+<p align="center">
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig1.png" width="70%" alt="Fig. 1: LAMs and Agentic AI empowered 6G." />
+  <br>Fig. 1: LAMs and Agentic AI empowered 6G.
+</p>
 
 
