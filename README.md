@@ -121,32 +121,32 @@ provides a systematic introduction to the principles, design, and applications o
 </p>
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig2.png" width="80%" alt="Fig. 2: Overall organization of the tutorial." />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig2.png" width="100%" alt="Fig. 2: Overall organization of the tutorial." />
   <br>Fig. 2: Overall organization of the tutorial.
 </p>
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig3.png" width="80%" alt="Fig. 3: The structured design pipeline of LAMs for communications." />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig3.png" width="100%" alt="Fig. 3: The structured design pipeline of LAMs for communications." />
   <br>Fig. 3: The structured design pipeline of LAMs for communications.
 </p>
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig4.png" width="80%" alt="Fig. 4: The architecture of the LAM-based Agentic AI system." />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig4.png" width="100%" alt="Fig. 4: The architecture of the LAM-based Agentic AI system." />
   <br>Fig. 4: The architecture of the LAM-based Agentic AI system.
 </p>
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig5.png" width="80%" alt="Fig. 5: Schematic diagram of CommLLM" />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig5.png" width="100%" alt="Fig. 5: Schematic diagram of CommLLM" />
   <br>Fig. 5: Schematic diagram of CommLLM
 </p>
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig6.png" width="80%" alt="Fig. 6: The application scenarios of LAMs." />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig6.png" width="100%" alt="Fig. 6: The application scenarios of LAMs." />
   <br>Fig. 6: The application scenarios of LAMs.
 </p>
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig7.png" width="80%" alt="Fig. 7: The application scenarios of Agentic AI." />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig7.png" width="100%" alt="Fig. 7: The application scenarios of Agentic AI." />
   <br>Fig. 7: The application scenarios of Agentic AI.
 </p>
 
