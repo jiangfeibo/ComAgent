@@ -11,7 +11,6 @@ provides a systematic introduction to the principles, design, and applications o
 
 
 ## Contents
-
 * [From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications](#From-Large-AI-Models-to-Agentic-AI-A-Tutorial-on-Future-Intelligent-Communications)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
@@ -28,7 +27,6 @@ provides a systematic introduction to the principles, design, and applications o
       * [1) Lack of Detailed Taxonomy for LAMs and Their Training Paradigms](#1-Lack-of-Detailed-Taxonomy-for-LAMs-and-Their-Training-Paradigms)
       * [2) Lack of Systematic Review on Agentic AI in Communications](#2-Lack-of-Systematic-Review-on-Agentic-AI-in-Communications)
     * [D. Motivations and Contributions](#D-Motivations-and-Contributions)
-
   * [II. KEY CONCEPTS](#II-KEY-CONCEPTS)
     * [A. Components](#A-Components)
       * [1) Transformer](#1-Transformer)
