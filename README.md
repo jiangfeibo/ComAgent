@@ -116,7 +116,7 @@ provides a systematic introduction to the principles, design, and applications o
  
 
 <p align="center">
-  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig1.png" width="50%" alt="Fig. 1: LAMs and Agentic AI empowered 6G." />
+  <img src="https://github.com/jiangfeibo/ComAgent/blob/main/fig/fig1.png" width="70%" alt="Fig. 1: LAMs and Agentic AI empowered 6G." />
   <br>Fig. 1: LAMs and Agentic AI empowered 6G.
 </p>
 
