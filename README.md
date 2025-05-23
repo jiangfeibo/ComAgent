@@ -86,7 +86,7 @@ provides a systematic introduction to the principles, design, and applications o
       * [4) LAMs for Network Design and Management](#4-LAMs-for-Network-Design-and-Management)
       * [5) LAMs for Security and Privacy](#5-LAMs-for-Security-and-Privacy)
       * [6) LAMs for Resource Allocation](#6-LAMs-for-Resource-Allocation)
-    * [B. The Application Scenarios of Agentic AI](#B-The-Application-Scenarios-of-Agentic AI)
+    * [B. The Application Scenarios of Agentic AI](#B-The-Application-Scenarios-of-Agentic-AI)
       * [1) Agentic AI for Wireless Communication](#1-Agentic-AI-for-Wireless-Communication)
       * [2) Agentic AI for Semantic Communication](#2-Agentic-AI-for-Semantic-Communication)
       * [3) Agentic AI for Network Management and Optimization](#3-Agentic-AI-for-Network-Management-and-Optimization)
