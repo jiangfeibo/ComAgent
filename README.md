@@ -120,6 +120,8 @@ provides a systematic introduction to the principles, design, and applications o
   * [Update log](#Update-log)
  
 
+![f83884e75c728798d16033471f8ebd9](https://github.com/user-attachments/assets/f377ba7d-d6aa-4ac6-9e8b-ab459add8028)
+<p align="center">Fig. 1: LAMs and Agentic AI empowered 6G.</p>
 
 
 
