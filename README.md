@@ -150,4 +150,4 @@ provides a systematic introduction to the principles, design, and applications o
   <br>Fig. 7: The application scenarios of Agentic AI.
 </p>
 
-![3ef93b216fcaa541489f3434733e8fc](https://github.com/user-attachments/assets/ee2757b4-7861-4a42-b346-3219b4708b7a)
+
