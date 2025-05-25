@@ -148,6 +148,7 @@ With the advent of 6G communications, intelligent communication systems face mul
   <tr>
     <th>Category</th>
     <th>Title</th>
+    <th>Release Time</th>
     <th>Link</th>
     <th>Download</th>
   </tr></thead>
