@@ -179,7 +179,7 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td>Agentic ai for scientific discovery: A survey of progress, challenges</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/pdf/2503.08979" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr align="center">
     <td></td>
@@ -228,7 +228,7 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td>Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks</td>
     <td></td>
     <td><a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
    <tr align="center">
     <td></td>
