@@ -205,7 +205,7 @@ With the advent of 6G communications, intelligent communication systems face mul
   <tr align="center">
     <td></td>
     <td>A survey of agent interoperability protocols: Model context protocol (mcp), agent communication protocol (acp), agent-to-agent protocol (a2a), and agent network protocol (anp)</td>
-    <td></td>
+    <td>2025</td>
     <td><a href="https://arxiv.org/abs/2505.02279" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
@@ -226,7 +226,7 @@ With the advent of 6G communications, intelligent communication systems face mul
    <tr align="center">
     <td></td>
     <td>Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks</td>
-    <td></td>
+    <td>2024</td>
     <td><a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
@@ -275,7 +275,7 @@ With the advent of 6G communications, intelligent communication systems face mul
  <tr align="center">
     <td></td>
     <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
-    <td></td>
+    <td>2025</td>
     <td><a href="https://arxiv.org/abs/2505.01074" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/jwentong/WirelessAgent_R1" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
