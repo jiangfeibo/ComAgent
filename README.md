@@ -155,101 +155,87 @@ With the advent of 6G communications, intelligent communication systems face mul
 <tbody>
   <tr align="center">
     <td></td>
+    <td>Openagents: An open platform for language agents in the wild</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2310.10634" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
     <td></td>
+    <td>Agentic ai: Autonomous intelligence for complex goals–a comprehensive survey</td>
+    <td>2025</td>
+    <td><a href="https://ieeexplore.ieee.org/document/10849561?denied=" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
     <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td>From llm reasoning to autonomous ai agents: A comprehensive review</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.19678" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>Agentic ai for scientific discovery: A survey of progress, challenges</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2503.08979" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Agentic reasoning: Reasoning llms with tools for the deep research</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2502.04644" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/theworldofagents/Agentic-Reasoning" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Large language model enhanced multi-agent systems for 6g communications</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2312.07850" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/jiangfeibo/CommLLM" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Generative ai agents with large language model for satellite networks via a mixture of experts transmission</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2404.09134" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
+    <td>A survey of agent interoperability protocols: Model context protocol (mcp), agent communication protocol (acp), agent-to-agent protocol (a2a), and agent network protocol (anp)</td>
     <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://arxiv.org/abs/2505.02279" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Reflexion: Language agents with verbal reinforcement learning</td>
+    <td>2023</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/noahshinn/reflexion" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Ai agents vs. agentic ai: A conceptual taxonomy, applications and challenge</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2505.10468" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
-  <tr align="center">
+   <tr align="center">
     <td></td>
+    <td>Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks</td>
     <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
    <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-   <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
- <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
- <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Self-resource allocation in multi-agent llm systems</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.02051" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
  <tr align="center">
     <td></td>
