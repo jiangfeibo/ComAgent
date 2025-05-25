@@ -281,6 +281,41 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr>
   <tr align="center">
     <td></td>
+    <td>Towards agentic ai networking in 6g: A generative foundation model-as-agent approach</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2503.15764" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>Llm-driven agentic ai approach to enhanced o-ran resilience in next-generation networks</td>
+    <td>2025</td>
+    <td><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174284755.59863143" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>Exploring llm-based multi-agent situation awareness for zero-trust space-air-ground integrated network</td>
+    <td>2025</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10963886/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/OISF/suricat" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>Airvista: Empowering uavs with 3d spatial reasoning abilities through a multimodal large language model agent</td>
+    <td>2024</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10919532/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Scenario-driven evaluation of autonomous agents: Integrating large language model for uav mission reliability</td>
+    <td>2025</td>
+    <td><a href="https://search.proquest.com/openview/45a54717a8c03da81300186f2960b30b/1?pq-origsite=gscholar&cbl=5046906" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td></td>
     <td>Task offloading with llm-enhanced multi-agent reinforcement learning in uav-assisted edge computing</td>
     <td>2025</td>
     <td><a href="https://search.proquest.com/openview/99adc0f117a249a1294b69c8b7e8172d/1?pq-origsite=gscholar&cbl=2032333" target="_blank" rel="noopener noreferrer">Paper</a></td>
