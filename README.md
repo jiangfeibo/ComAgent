@@ -143,6 +143,89 @@ With the advent of 6G communications, intelligent communication systems face mul
   <br>Fig. 7: The application scenarios of Agentic AI.
 </p>
 
+## Agentic AI
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>Title</th>
+    <th>Link</th>
+    <th>Download</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+</tbody></table>
+
 
 ## The Team
 Here is the list of our student contributors in each section.
