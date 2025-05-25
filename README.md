@@ -232,9 +232,9 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr>
   <tr align="center">
     <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td>Survey on evaluation of llm-based agents</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2503.16416" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
