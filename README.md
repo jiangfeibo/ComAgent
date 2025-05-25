@@ -239,6 +239,48 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr>
  <tr align="center">
     <td></td>
+    <td>Model context protocol-based internet of experts for wireless environment-aware llm agents</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.01834" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Enabling mobile ai agent in 6g era: Architecture and key technologies</td>
+    <td>2024</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10599391" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Llm agents as 6g orchestrator: A paradigm for task-oriented physical-layer automation</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2410.03688" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>When large language model agents meet 6g networks: Perception, grounding, and alignmen</td>
+    <td>2024</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10648594" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Agent-driven generative semantic communication with cross-modality and prediction</td>
+    <td>2025</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10815060" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
+    <td></td>
+    <td><a href="https://arxiv.org/abs/2505.01074" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/jwentong/WirelessAgent_R1" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
     <td>Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2504.00587" target="_blank" rel="noopener noreferrer">Paper</a></td>
