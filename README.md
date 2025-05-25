@@ -223,19 +223,40 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
-  <tr align="center">
+   <tr align="center">
     <td></td>
     <td></td>
     <td></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
+   <tr align="center">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+   <tr align="center">
+    <td></td>
+    <td>Building a secure agentic ai application leveraging a2a protocol</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.16902" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kenhuangus/a2a-secure-coding-examples" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>Agent-as-a-judge:Evaluate agents with agents</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2410.10934" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/metauto-ai/agent-as-a-judge" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
   <tr align="center">
     <td></td>
     <td>Survey on evaluation of llm-based agents</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2503.16416" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
 </tbody></table>
 
