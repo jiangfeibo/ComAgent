@@ -279,6 +279,27 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://arxiv.org/abs/2505.01074" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/jwentong/WirelessAgent_R1" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
+  <tr align="center">
+    <td></td>
+    <td>Task offloading with llm-enhanced multi-agent reinforcement learning in uav-assisted edge computing</td>
+    <td>2025</td>
+    <td><a href="https://search.proquest.com/openview/99adc0f117a249a1294b69c8b7e8172d/1?pq-origsite=gscholar&cbl=2032333" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Uav-codeagents: Scalable uav mission planning via multi-agent react and vision-language reasoning</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.07236" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>Agentic retrievalaugmented generation: A survey on agentic rag</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2501.09136" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/asinghcsu/AgenticRAG-Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
  <tr align="center">
     <td></td>
     <td>Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems</td>
