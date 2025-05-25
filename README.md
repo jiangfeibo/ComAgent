@@ -237,6 +237,27 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
+ <tr align="center">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Multi-agent collaboration mechanisms: A survey of llms</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2501.06322" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/crewAIInc/crewAI" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Advancing multi-agent systems through model context protocol: Architecture, implementation, and applications</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.21030" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
    <tr align="center">
     <td></td>
     <td>Building a secure agentic ai application leveraging a2a protocol</td>
