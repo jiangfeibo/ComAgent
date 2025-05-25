@@ -239,6 +239,27 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr>
  <tr align="center">
     <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td></td>
+    <td>Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.00587" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+ <tr align="center">
+    <td></td>
     <td>Usercentrix: An agentic memory-augmented ai framework for smart spaces</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2505.00472" target="_blank" rel="noopener noreferrer">Paper</a></td>
