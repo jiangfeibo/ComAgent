@@ -607,77 +607,6 @@ With the advent of 6G communications, intelligent communication systems face mul
 </tbody></table>
 
 
-## Planner
-<table><thead>
-  <tr>
-    <th>Title</th>
-    <th>Release Time</th>
-    <th>Link</th>
-    <th>Download</th>
-  </tr></thead>
-<tbody>
-  <tr align="center">
-    <td>Graph of thoughts: Solving elaborate problems with large language models</td>
-    <td>2024</td>
-    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29720" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/spcl/graph-of-thoughts" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Thought Graph: Generating Thought Process for Biological Reasoning</td>
-    <td>2024</td>
-    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3589335.3651572" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/ethan5437/thought-graph-www/" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2404.07103" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/PeterGriffinJin/Graph-CoT" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2501.04341?" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/zdhgreat/ISP-2" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Generating SPARQL from Natural Language Using Chain-of-Thoughts Prompting</td>
-    <td>2025</td>
-    <td><a href="https://papers.dice-research.org/2024/SEMANTICS_Cot-SPARQL/public.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/dice-group/CoT-Sparql" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</td>
-    <td>2024</td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/cde328b7bf6358f5ebb91fe9c539745e-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/YangLing0818/buffer-of-thought-llm" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Step-by-Step Reasoning to Solve Grid Puzzles: Where do LLMs Falter?</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/pdf/2407.14790" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Mihir3009/GridPuzzle" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2504.16563" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/cjj826/GoalAct" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs</td>
-    <td>2024</td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/00d80722b756de0166523a87805dd00f-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/sail-sg/CPO" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Compositional Chain-of-Thought Prompting for Large Multimodal Models</td>
-    <td>2025</td>
-    <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/chancharikmitra/CCoT" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-</tbody></table>
-
 ## Knowledge Base
 <table><thead>
   <tr>
@@ -888,6 +817,78 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+</tbody></table>
+
+
+## Planner
+<table><thead>
+  <tr>
+    <th>Title</th>
+    <th>Release Time</th>
+    <th>Link</th>
+    <th>Download</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td>Graph of thoughts: Solving elaborate problems with large language models</td>
+    <td>2024</td>
+    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29720" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/spcl/graph-of-thoughts" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Thought Graph: Generating Thought Process for Biological Reasoning</td>
+    <td>2024</td>
+    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3589335.3651572" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/ethan5437/thought-graph-www/" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2404.07103" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/PeterGriffinJin/Graph-CoT" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2501.04341?" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/zdhgreat/ISP-2" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Generating SPARQL from Natural Language Using Chain-of-Thoughts Prompting</td>
+    <td>2025</td>
+    <td><a href="https://papers.dice-research.org/2024/SEMANTICS_Cot-SPARQL/public.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/dice-group/CoT-Sparql" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</td>
+    <td>2024</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/cde328b7bf6358f5ebb91fe9c539745e-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/YangLing0818/buffer-of-thought-llm" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Step-by-Step Reasoning to Solve Grid Puzzles: Where do LLMs Falter?</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2407.14790" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Mihir3009/GridPuzzle" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2504.16563" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/cjj826/GoalAct" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs</td>
+    <td>2024</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/00d80722b756de0166523a87805dd00f-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/sail-sg/CPO" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Compositional Chain-of-Thought Prompting for Large Multimodal Models</td>
+    <td>2025</td>
+    <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/chancharikmitra/CCoT" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
