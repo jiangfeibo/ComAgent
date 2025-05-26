@@ -629,52 +629,34 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/kwchurch/RAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>The Power of Noise: Redefining Retrieval for RAG Systems</td>
+    <td>2024</td>
+    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657834">Paper</a></td>
+    <td><a href="https://github.com/florin-git/The-Power-of-Noise" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Retrieval-augmented generation for large language models: A survey</td>
+    <td>2023</td>
+    <td><a href="https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Tongji-KGLLM/RAG-Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2401.15391" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/yixuantt/MultiHop-RAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2504.12330" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/ocean-luna/HMRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>STRUCTURED REVIEW ON RAG- AND MULTI-AGENT FRAMEWORKS –PART II: APPLICATION-BASED ASSESSMENT</td>
+    <td>2025</td>
+    <td><a href="https://www.essv.de/pdf/2025_43_50.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/BerriAI/litellm" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
