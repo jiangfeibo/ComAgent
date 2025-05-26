@@ -617,16 +617,16 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr></thead>
 <tbody>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2404.19543" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/2471023025/RALM_Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>Emerging trends: a gentle introduction to RAG</td>
+    <td>2024</td>
+    <td><a href="https://www.cambridge.org/core/journals/natural-language-engineering/article/emerging-trends-a-gentle-introduction-to-rag/4FF461F4066A0C16135F2D2849E3356A" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kwchurch/RAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
