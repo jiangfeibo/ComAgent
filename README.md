@@ -530,7 +530,7 @@ With the advent of 6G communications, intelligent communication systems face mul
 </tbody></table>
 
 
-## Knowledge Base
+## RAG/知识库
 <table><thead>
   <tr>
     <th>Title</th>
@@ -576,10 +576,22 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/ocean-luna/HMRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>STRUCTURED REVIEW ON RAG- AND MULTI-AGENT FRAMEWORKS –PART II: APPLICATION-BASED ASSESSMENT</td>
+    <td>Structured Review on RAG- and Multi-Agent Frameworks – Part II: Application-Based Assessment</td>
     <td>2025</td>
     <td><a href="https://www.essv.de/pdf/2025_43_50.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/BerriAI/litellm" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>2025</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td>2025</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
