@@ -706,24 +706,12 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr></thead>
 <tbody>
   <tr align="center">
-    <td>HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym</td>
-    <td>2025</td>
-    <td><a href="https://aair-lab.github.io/genplan25/papers/5.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/HDDLGym/HDDLGym" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>CodeTF: One-stop Transformer Library for State-of-the-art Code LLM</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2306.00029" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/salesforce/CodeTF" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
-  <tr align="center">
-    <td>OPENCODER: THE OPEN COOKBOOK FOR TOP-TIER CODE LARGE LANGUAGE MODELS</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2411.04905" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/richardodliu/OpenCodeEval" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2504.08066?" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
+ <tr align="center">
     <td>DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2401.14196" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -736,10 +724,22 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/OpenLemur/Lemur" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>CodeTF: One-stop Transformer Library for State-of-the-art Code LLM</td>
-    <td>2023</td>
-    <td><a href="https://arxiv.org/abs/2306.00029" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/salesforce/CodeTF" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym</td>
+    <td>2025</td>
+    <td><a href="https://aair-lab.github.io/genplan25/papers/5.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/HDDLGym/HDDLGym" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2411.04905" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/richardodliu/OpenCodeEval" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2504.08066?" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
