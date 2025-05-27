@@ -143,7 +143,7 @@ With the advent of 6G communications, intelligent communication systems face mul
   <br>Fig. 7: The application scenarios of Agentic AI.
 </p>
 
-## Classification of LAMs
+## LAMs
 
 <table><thead>
   <tr>
