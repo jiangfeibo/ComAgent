@@ -509,6 +509,12 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://dl.acm.org/doi/pdf/10.1145/3589335.3651572" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/ethan5437/thought-graph-www/" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
+ <tr align="center">
+    <td>From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2406.19934" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/steven-ccq/VisualReasoner" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
   <tr align="center">
     <td>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</td>
     <td>2024</td>
