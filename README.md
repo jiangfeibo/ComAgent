@@ -641,24 +641,18 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr></thead>
 <tbody>
   <tr align="center">
+    <td>Memory gym: Partially observable challenges to memory-based agents</td>
+    <td>2023</td>
+    <td><a href="https://openreview.net/forum?id=jHc8dCx6DDr" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/MarcoMeter/endless-memory-gym" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
     <td>A Survey on the Memory Mechanism of Large Language Model based Agents</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/pdf/2404.13501" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/nuster1128/LLM_Agent_Memory_Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
-  <tr align="center">
-    <td>SURVEYFORGE: On the Outline Heuristics, Memory-Driven Generation,and Multi-dimensional Evaluation for Automated Survey Writing</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2503.04629?" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Alpha-Innovator/SurveyForge" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2504.01990" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/FoundationAgents/awesome-foundation-agents" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
+ <tr align="center">
     <td>xlstm: Extended long short-term memory</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2405.04517" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -677,6 +671,18 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/rutishauserlab/SBCAT-NO-release-NWB" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
+    <td>SURVEYFORGE: On the Outline Heuristics, Memory-Driven Generation,and Multi-dimensional Evaluation for Automated Survey Writing</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2503.04629?" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Alpha-Innovator/SurveyForge" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2504.01990" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/FoundationAgents/awesome-foundation-agents" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
     <td>A-mem: Agentic memory for llm agents</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2502.12110" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -687,12 +693,6 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2504.19413" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://langchain-ai.github.io/langmem/" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Memory gym: Partially observable challenges to memory-based agents</td>
-    <td>2023</td>
-    <td><a href="https://openreview.net/forum?id=jHc8dCx6DDr" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/MarcoMeter/endless-memory-gym" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
