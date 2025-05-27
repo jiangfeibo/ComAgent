@@ -154,22 +154,10 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr></thead>
 <tbody>
   <tr align="center">
-    <td>Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions</td>
-    <td>2023</td>
-    <td><a href="https://arxiv.org/pdf/2306.02224" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>babyagi</td>
+    <td>OpenManus</td>
     <td>2025</td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-    <td><a href="https://github.com/yoheinakajima/babyagi" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD</td>
-    <td>2023</td>
-    <td><a href="https://arxiv.org/pdf/2310.10634" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/xlang-ai/OpenAgents" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://github.com/mannaandpoem/OpenManus" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents</td>
@@ -177,29 +165,53 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://arxiv.org/pdf/2502.05957" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/HKUDS/AutoAgent" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
+   <tr align="center">
+    <td>BabyAGI</td>
+    <td>2025</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+    <td><a href="https://github.com/yoheinakajima/babyagi" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
   <tr align="center">
+    <td>AgentGym: Evolving Large Language Model-based Agents across Diverse Environments</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2406.04151" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/WooooDyy/AgentGym" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+   <tr align="center">
     <td>PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/pdf/2407.06985?" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/agentuniverse-ai/agentUniverse" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
-  <tr align="center">
-    <td>AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments</td>
+ <tr align="center">
+    <td>Dify</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/pdf/2406.04151" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/WooooDyy/AgentGym" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>OpenManus</td>
-    <td>2025</td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-    <td><a href="https://github.com/mannaandpoem/OpenManus" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://github.com/langgenius/dify" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>AgentGPT</td>
     <td>2023</td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
     <td><a href="https://github.com/reworkd/AgentGPT" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/pdf/2306.02224" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+   <tr align="center">
+    <td>OpenAgents: An Open Platform for Language Agent in The Wild</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/pdf/2310.10634" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/xlang-ai/OpenAgents" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2303.17580" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/AI-Chef/HuggingGPT" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
