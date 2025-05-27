@@ -582,10 +582,10 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/BerriAI/litellm" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td>2025</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td>HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models</td>
+    <td>2024</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/OSU-NLP-Group/HippoRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td></td>
