@@ -558,7 +558,7 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/ysymyth/ReAct" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>ReAct: Synergizing Reasoning and Acting in Language Models</td>
+    <td>Least-to-Most Prompting Enables Complex Reasoning in Large Language Models</td>
     <td>2022</td>
     <td><a href="https://arxiv.org/pdf/2205.10625" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
