@@ -143,215 +143,6 @@ With the advent of 6G communications, intelligent communication systems face mul
   <br>Fig. 7: The application scenarios of Agentic AI.
 </p>
 
-## Paper with code
-<table><thead>
-  <tr>
-    <th>Title</th>
-    <th>Release Time</th>
-    <th>Link</th>
-    <th>Download</th>
-  </tr></thead>
-<tbody>
-  <tr align="center">
-    <td>Openagents: An open platform for language agents in the wild</td>
-    <td>2023</td>
-    <td><a href="https://arxiv.org/abs/2310.10634" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-  <tr align="center">
-    <td>Agentic ai: Autonomous intelligence for complex goals–a comprehensive survey</td>
-    <td>2025</td>
-    <td><a href="https://ieeexplore.ieee.org/document/10849561?denied=" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-  <tr align="center">
-    <td>From llm reasoning to autonomous ai agents: A comprehensive review</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2504.19678" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-  <tr align="center">
-    <td>Agentic ai for scientific discovery: A survey of progress, challenges</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2503.08979" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-  <tr align="center">
-    <td>Agentic reasoning: Reasoning llms with tools for the deep research</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2502.04644" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/theworldofagents/Agentic-Reasoning" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Large language model enhanced multi-agent systems for 6g communications</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/pdf/2312.07850" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/jiangfeibo/CommLLM" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Generative ai agents with large language model for satellite networks via a mixture of experts transmission</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/pdf/2404.09134" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>A survey of agent interoperability protocols: Model context protocol (mcp), agent communication protocol (acp), agent-to-agent protocol (a2a), and agent network protocol (anp)</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2505.02279" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-  <tr align="center">
-    <td>Reflexion: Language agents with verbal reinforcement learning</td>
-    <td>2023</td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/noahshinn/reflexion" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Ai agents vs. agentic ai: A conceptual taxonomy, applications and challenge</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/pdf/2505.10468" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-   <tr align="center">
-    <td>Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
-   <tr align="center">
-    <td>Self-resource allocation in multi-agent llm systems</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2504.02051" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
- <tr align="center">
-    <td>Model context protocol-based internet of experts for wireless environment-aware llm agents</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2505.01834" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
- <tr align="center">
-    <td>Enabling mobile ai agent in 6g era: Architecture and key technologies</td>
-    <td>2024</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10599391" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
- <tr align="center">
-    <td>Llm agents as 6g orchestrator: A paradigm for task-oriented physical-layer automation</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2410.03688" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
- <tr align="center">
-    <td>When large language model agents meet 6g networks: Perception, grounding, and alignmen</td>
-    <td>2024</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10648594" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
- <tr align="center">
-    <td>Agent-driven generative semantic communication with cross-modality and prediction</td>
-    <td>2025</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10815060" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
-  </tr>
- <tr align="center">
-    <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2505.01074" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/jwentong/WirelessAgent_R1" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Towards agentic ai networking in 6g: A generative foundation model-as-agent approach</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2503.15764" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td>Llm-driven agentic ai approach to enhanced o-ran resilience in next-generation networks</td>
-    <td>2025</td>
-    <td><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174284755.59863143" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td>Exploring llm-based multi-agent situation awareness for zero-trust space-air-ground integrated network</td>
-    <td>2025</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10963886/" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/OISF/suricat" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Airvista: Empowering uavs with 3d spatial reasoning abilities through a multimodal large language model agent</td>
-    <td>2024</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10919532/" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
- <tr align="center">
-    <td>Scenario-driven evaluation of autonomous agents: Integrating large language model for uav mission reliability</td>
-    <td>2025</td>
-    <td><a href="https://search.proquest.com/openview/45a54717a8c03da81300186f2960b30b/1?pq-origsite=gscholar&cbl=5046906" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td>Task offloading with llm-enhanced multi-agent reinforcement learning in uav-assisted edge computing</td>
-    <td>2025</td>
-    <td><a href="https://search.proquest.com/openview/99adc0f117a249a1294b69c8b7e8172d/1?pq-origsite=gscholar&cbl=2032333" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
- <tr align="center">
-    <td>Uav-codeagents: Scalable uav mission planning via multi-agent react and vision-language reasoning</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2505.07236" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td>Agentic retrievalaugmented generation: A survey on agentic rag</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2501.09136" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/asinghcsu/AgenticRAG-Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
- <tr align="center">
-    <td>Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2504.00587" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
- <tr align="center">
-    <td>Usercentrix: An agentic memory-augmented ai framework for smart spaces</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2505.00472" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/evaluation/criteria/prompt.py" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
- <tr align="center">
-    <td>Multi-agent collaboration mechanisms: A survey of llms</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2501.06322" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/crewAIInc/crewAI" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
- <tr align="center">
-    <td>Advancing multi-agent systems through model context protocol: Architecture, implementation, and applications</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2504.21030" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
-   <tr align="center">
-    <td>Building a secure agentic ai application leveraging a2a protocol</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2504.16902" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/kenhuangus/a2a-secure-coding-examples" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Agent-as-a-judge:Evaluate agents with agents</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2410.10934" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/metauto-ai/agent-as-a-judge" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Survey on evaluation of llm-based agents</td>
-    <td>2025</td>
-    <td><a href="https://arxiv.org/abs/2503.16416" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
-  </tr>
-</tbody></table>
-
 ## Classification of LAMs
 
 <table><thead>
@@ -900,6 +691,215 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td>2023</td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
     <td><a href="https://github.com/reworkd/AgentGPT" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+</tbody></table>
+
+## Paper with code
+<table><thead>
+  <tr>
+    <th>Title</th>
+    <th>Release Time</th>
+    <th>Link</th>
+    <th>Download</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td>Openagents: An open platform for language agents in the wild</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2310.10634" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td>Agentic ai: Autonomous intelligence for complex goals–a comprehensive survey</td>
+    <td>2025</td>
+    <td><a href="https://ieeexplore.ieee.org/document/10849561?denied=" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td>From llm reasoning to autonomous ai agents: A comprehensive review</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.19678" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td>Agentic ai for scientific discovery: A survey of progress, challenges</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2503.08979" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td>Agentic reasoning: Reasoning llms with tools for the deep research</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2502.04644" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/theworldofagents/Agentic-Reasoning" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Large language model enhanced multi-agent systems for 6g communications</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2312.07850" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/jiangfeibo/CommLLM" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Generative ai agents with large language model for satellite networks via a mixture of experts transmission</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2404.09134" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>A survey of agent interoperability protocols: Model context protocol (mcp), agent communication protocol (acp), agent-to-agent protocol (a2a), and agent network protocol (anp)</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.02279" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td>Reflexion: Language agents with verbal reinforcement learning</td>
+    <td>2023</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/noahshinn/reflexion" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Ai agents vs. agentic ai: A conceptual taxonomy, applications and challenge</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/pdf/2505.10468" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+   <tr align="center">
+    <td>Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+   <tr align="center">
+    <td>Self-resource allocation in multi-agent llm systems</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.02051" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td>Model context protocol-based internet of experts for wireless environment-aware llm agents</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.01834" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td>Enabling mobile ai agent in 6g era: Architecture and key technologies</td>
+    <td>2024</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10599391" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td>Llm agents as 6g orchestrator: A paradigm for task-oriented physical-layer automation</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2410.03688" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td>When large language model agents meet 6g networks: Perception, grounding, and alignmen</td>
+    <td>2024</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10648594" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td>Agent-driven generative semantic communication with cross-modality and prediction</td>
+    <td>2025</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10815060" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+ <tr align="center">
+    <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.01074" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/jwentong/WirelessAgent_R1" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Towards agentic ai networking in 6g: A generative foundation model-as-agent approach</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2503.15764" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>Llm-driven agentic ai approach to enhanced o-ran resilience in next-generation networks</td>
+    <td>2025</td>
+    <td><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174284755.59863143" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>Exploring llm-based multi-agent situation awareness for zero-trust space-air-ground integrated network</td>
+    <td>2025</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10963886/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/OISF/suricat" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Airvista: Empowering uavs with 3d spatial reasoning abilities through a multimodal large language model agent</td>
+    <td>2024</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10919532/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+ <tr align="center">
+    <td>Scenario-driven evaluation of autonomous agents: Integrating large language model for uav mission reliability</td>
+    <td>2025</td>
+    <td><a href="https://search.proquest.com/openview/45a54717a8c03da81300186f2960b30b/1?pq-origsite=gscholar&cbl=5046906" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>Task offloading with llm-enhanced multi-agent reinforcement learning in uav-assisted edge computing</td>
+    <td>2025</td>
+    <td><a href="https://search.proquest.com/openview/99adc0f117a249a1294b69c8b7e8172d/1?pq-origsite=gscholar&cbl=2032333" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+ <tr align="center">
+    <td>Uav-codeagents: Scalable uav mission planning via multi-agent react and vision-language reasoning</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.07236" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>Agentic retrievalaugmented generation: A survey on agentic rag</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2501.09136" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/asinghcsu/AgenticRAG-Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td>Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.00587" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+ <tr align="center">
+    <td>Usercentrix: An agentic memory-augmented ai framework for smart spaces</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2505.00472" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/evaluation/criteria/prompt.py" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td>Multi-agent collaboration mechanisms: A survey of llms</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2501.06322" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/crewAIInc/crewAI" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td>Advancing multi-agent systems through model context protocol: Architecture, implementation, and applications</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.21030" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+   <tr align="center">
+    <td>Building a secure agentic ai application leveraging a2a protocol</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2504.16902" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kenhuangus/a2a-secure-coding-examples" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Agent-as-a-judge:Evaluate agents with agents</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2410.10934" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/metauto-ai/agent-as-a-judge" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Survey on evaluation of llm-based agents</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2503.16416" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
   </tr>
 </tbody></table>
 
