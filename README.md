@@ -480,6 +480,60 @@ With the advent of 6G communications, intelligent communication systems face mul
   </tr></thead>
 <tbody>
  <tr align="center">
+    <td>ReAct: Synergizing Reasoning and Acting in Language Models</td>
+    <td>2022</td>
+    <td><a href="https://arxiv.org/abs/2210.03629" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/ysymyth/ReAct" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Least-to-Most Prompting Enables Complex Reasoning in Large Language Models</td>
+    <td>2022</td>
+    <td><a href="https://arxiv.org/pdf/2205.10625" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+  </tr>
+  <tr align="center">
+    <td>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/pdf/2305.10601" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kyegomez/tree-of-thoughts" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td>Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/pdf/2305.04091" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td>Thought Graph: Generating Thought Process for Biological Reasoning</td>
+    <td>2024</td>
+    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3589335.3651572" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/ethan5437/thought-graph-www/" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</td>
+    <td>2024</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/cde328b7bf6358f5ebb91fe9c539745e-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/YangLing0818/buffer-of-thought-llm" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Step-by-Step Reasoning to Solve Grid Puzzles: Where do LLMs Falter?</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/pdf/2407.14790" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Mihir3009/GridPuzzle" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs</td>
+    <td>2024</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/00d80722b756de0166523a87805dd00f-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/sail-sg/CPO" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
+    <td>Graph of thoughts: Solving elaborate problems with large language models</td>
+    <td>2024</td>
+    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29720" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/spcl/graph-of-thoughts" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+ <tr align="center">
     <td>Generating SPARQL from Natural Language Using Chain-of-Thoughts Prompting</td>
     <td>2025</td>
     <td><a href="https://papers.dice-research.org/2024/SEMANTICS_Cot-SPARQL/public.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -504,64 +558,10 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/cjj826/GoalAct" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>Graph of thoughts: Solving elaborate problems with large language models</td>
-    <td>2024</td>
-    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29720" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/spcl/graph-of-thoughts" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
     <td>Compositional Chain-of-Thought Prompting for Large Multimodal Models</td>
     <td>2025</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/chancharikmitra/CCoT" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Thought Graph: Generating Thought Process for Biological Reasoning</td>
-    <td>2024</td>
-    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3589335.3651572" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/ethan5437/thought-graph-www/" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</td>
-    <td>2024</td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/cde328b7bf6358f5ebb91fe9c539745e-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/YangLing0818/buffer-of-thought-llm" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Step-by-Step Reasoning to Solve Grid Puzzles: Where do LLMs Falter?</td>
-    <td>2024</td>
-    <td><a href="https://arxiv.org/pdf/2407.14790" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Mihir3009/GridPuzzle" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs</td>
-    <td>2024</td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/00d80722b756de0166523a87805dd00f-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/sail-sg/CPO" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</td>
-    <td>2023</td>
-    <td><a href="https://arxiv.org/pdf/2305.10601" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/kyegomez/tree-of-thoughts" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
- <tr align="center">
-    <td>Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models</td>
-    <td>2023</td>
-    <td><a href="https://arxiv.org/pdf/2305.04091" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>ReAct: Synergizing Reasoning and Acting in Language Models</td>
-    <td>2022</td>
-    <td><a href="https://arxiv.org/abs/2210.03629" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/ysymyth/ReAct" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Least-to-Most Prompting Enables Complex Reasoning in Large Language Models</td>
-    <td>2022</td>
-    <td><a href="https://arxiv.org/pdf/2205.10625" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
 </tbody></table>
 
