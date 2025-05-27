@@ -572,7 +572,7 @@ With the advent of 6G communications, intelligent communication systems face mul
 </tbody></table>
 
 
-## RAG/知识库
+## RAG
 <table><thead>
   <tr>
     <th>Title</th>
