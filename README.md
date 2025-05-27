@@ -575,6 +575,18 @@ With the advent of 6G communications, intelligent communication systems face mul
     <th>Download</th>
   </tr></thead>
 <tbody>
+   <tr align="center">
+    <td>Retrieval-augmented generation for large language models: A survey</td>
+    <td>2023</td>
+    <td><a href="https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Tongji-KGLLM/RAG-Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models</td>
+    <td>2024</td>
+    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/OSU-NLP-Group/HippoRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
   <tr align="center">
     <td>RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing</td>
     <td>2024</td>
@@ -594,12 +606,6 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/florin-git/The-Power-of-Noise" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>Retrieval-augmented generation for large language models: A survey</td>
-    <td>2023</td>
-    <td><a href="https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Tongji-KGLLM/RAG-Survey" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
     <td>MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/pdf/2401.15391" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -616,12 +622,6 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td>2025</td>
     <td><a href="https://www.essv.de/pdf/2025_43_50.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/BerriAI/litellm" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models</td>
-    <td>2024</td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/6ddc001d07ca4f319af96a3024f6dbd1-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/OSU-NLP-Group/HippoRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation</td>
