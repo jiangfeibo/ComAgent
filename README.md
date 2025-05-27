@@ -600,10 +600,10 @@ With the advent of 6G communications, intelligent communication systems face mul
     <td><a href="https://github.com/OSU-NLP-Group/HippoRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td></td>
+    <td>HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation</td>
     <td>2025</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://arxiv.org/abs/2503.21322" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/LHRLAB/HyperGraphRAG" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
