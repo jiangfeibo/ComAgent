@@ -2,7 +2,7 @@
 ## Authors
 ### Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, Merouane Debbah
 ## Paper
-### https://arxiv.org/abs/...
+### https://arxiv.org/abs/2505.22311
 ## Code
 ### https://github.com/jiangfeibo/ComAgent
 ## Abstract
@@ -452,7 +452,7 @@ With the advent of 6G communications, intelligent communication systems face mul
 
 
   <tr align="center">
-    <td rowspan=3>Large Reasoning Model</td>
+    <td rowspan=4>Large Reasoning Model</td>
    <tr align="center">
     <td>OpenAI o3-mini</td>
     <td>OpenAI o3-mini</td>
@@ -466,6 +466,13 @@ With the advent of 6G communications, intelligent communication systems face mul
      <td>2025</td>
      <td><a href="https://arxiv.org/abs/2502.12893" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td><a href="https://github.com/dukeceicenter/jailbreak-o1o3-deepseek-r1" target="_blank" rel="noopener noreferrer">Code</a></td>
+   </tr>
+   <tr align="center">
+     <td>Qwen</td>
+     <td>Qwen-QwQ</td>
+     <td>2025</td>
+     <td><a href="https://arxiv.org/abs/2502.12893" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://github.com/QwenLM/Qwen2.5" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
 </tbody></table>
 
