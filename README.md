@@ -984,15 +984,18 @@ If you intend to add or update the source code in the repository, please contact
 | Version 	| Time 	| Update Content 	|
 |:---	|:---	|:---	|
 | v1 	| 2025/5/23 	| The initial version. 	|
-| v2 	|  	|  Improve the writing.<br>Correct some minor errors.	 |
+| v2 	| 2025/6/2	|  Improve the writing.<br>Correct some minor errors.	 |
 | v3 	|  	|  Improve the writing.<br>Correct some minor errors. 	|
 
 
 
 ## Citation   
 ```
-
-
-
+ @ARTICLE{2025arXiv:2505.22311,
+      title = {From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications},
+      author = {Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Octavia A. Dobre, Merouane Debbah},
+      journal = {arXiv preprint arXiv:2505.22311v1},
+      year = {2025}
+}
 ```
 
